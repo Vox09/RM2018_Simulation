@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo/cmake-build-debug/devel/setup.sh
