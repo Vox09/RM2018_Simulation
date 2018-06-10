@@ -15,3 +15,7 @@ The python package 'pyautogui' is needed
 
 number 0 is the blue vehicle
 number 1 is the red one 
+
+## TODO
+Improve control
+Develope strafe function(solve the simulation problem of mecanum wheel)
