@@ -1,5 +1,5 @@
 <launch>
-  <node pkg="rm_simulation" type="setup.sh" name="setup"/>
+  <node pkg="rm2018_simulation" type="setup.sh" name="setup"/>
   <!-- these are the arguments you can pass this launch file, for example paused:=true -->
   <arg name="paused" default="false"/>
   <arg name="use_sim_time" default="false"/>
@@ -9,7 +9,7 @@
 
 
    <include file="$(find gazebo_ros)/launch/empty_world.launch"> 
-    <arg name="world_name" value="$(find rm_simulation)/world/two_robots.world"/>
+    <arg name="world_name" value="$(find rm2018_simulation)/world/two_robots.world"/>
     <arg name="debug" value="$(arg debug)" />
     <arg name="gui" value="$(arg gui)" />
     <arg name="paused" value="$(arg paused)"/>

@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 2.8.3)
 
-project(rm_simulation)
+project(rm2018_simulation)
 
 find_package(catkin REQUIRED)
 
