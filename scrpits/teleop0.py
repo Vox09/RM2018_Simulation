@@ -18,7 +18,7 @@ d-right starfing
 - speed 10% down
 
 """
-fpstime = 0.02
+fpstime = 0.05
 
 moveBindings = {
 		'w':(1,0),
@@ -111,7 +111,7 @@ if __name__=="__main__":
 		
 			twist = Twist()
 			twist.linear.x = x_speed; twist.linear.y = y_speed; twist.linear.z = 0;
-			twist.angular.x = 0; twist.angular.y = pitch; twist.angular.z = yaw
+			twist.angular.x = 0; twist.angular.y = pitch; twist.angular.z = 3*yaw
 			pub.publish(twist)
 			print twist.linear.x ,twist.linear.y , twist.angular.y , twist.angular.z 
 			time.sleep(fpstime)
