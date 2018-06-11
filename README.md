@@ -2,7 +2,11 @@
 git clone to your catkin\_ws
 then catkin\_make
 
-just run the command:
+##### Environment setup 
+> rosrun rm2018\_simulation setup.sh
+make sure the *GAZEBO\_MODEL\_PATH* and *GAZEBO\_PLUGIN\_PATH* variables include the dir *meshses* and *plugins* in the project.
+
+then run the command:
 > roslaunch rm\_simulation two.launch gui:=true
 to see the simulation with GUI
 
@@ -14,6 +18,7 @@ to control the vehicle
 The python package 'pyautogui' is needed
 
 number 0 is the blue vehicle
+
 number 1 is the red one 
 
 ## TODO
