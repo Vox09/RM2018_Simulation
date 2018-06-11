@@ -71,7 +71,10 @@ namespace gazebo {
 
       physics::JointPtr joints[4];
       physics::JointPtr gimbal_joints[2];
-      
+
+      common::PID gimbal_PID;
+      common::PID chassis_PID;
+      physics::JointControllerPtr pid_controller;
 
       // ROS STUFF
       ros::NodeHandle* rosnode_;
@@ -104,6 +107,7 @@ namespace gazebo {
       //double rot_;
       double pitch_;
       double yaw_;
+      double fun_;
       bool alive_;
 
       // Update Rate

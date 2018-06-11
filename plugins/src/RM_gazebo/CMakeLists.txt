@@ -34,5 +34,5 @@ include_directories(include)
 link_directories(${GAZEBO_LIBRARY_DIRS} ${catkin_LIBRARY_DIRS})
 list(APPEND CMAKE_CXX_FLAGS "${GAZEBO_CXX_FLAGS}")
 
-add_library(RMDrive SHARED src/RMDrive.cpp)
+add_library(RMDrive SHARED src/RMDrive_fuck.cpp)
 target_link_libraries(RMDrive ${GAZEBO_LIBRARIES} ${catkin_LIBRARIES} ${Boost_LIBRARIES})

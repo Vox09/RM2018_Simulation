@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo/src/RMDrive.cpp" "/home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo/build/CMakeFiles/RMDrive.dir/src/RMDrive.cpp.o"
+  "/home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo/src/RMDrive_fuck.cpp" "/home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo/build/CMakeFiles/RMDrive.dir/src/RMDrive_fuck.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -24,8 +24,8 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "/usr/include/OGRE/Paging"
   "/opt/ros/kinetic/include"
   "/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"
-  "/opt/ros/kinetic/include/opencv-3.3.1"
-  "/opt/ros/kinetic/include/opencv-3.3.1/opencv"
+  "/opt/ros/kinetic/include/opencv-3.3.1-dev"
+  "/opt/ros/kinetic/include/opencv-3.3.1-dev/opencv"
   "../include"
   )
 

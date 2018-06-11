@@ -2,49 +2,50 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
     <generated>
-      <config projectName="RM_gazebo_plugins" targetName="geometry_msgs_generate_messages_py" />
-      <config projectName="RM_gazebo_plugins" targetName="sensor_msgs_generate_messages_eus" />
+      <config projectName="RM_gazebo_plugins" targetName="gazebo_msgs_generate_messages_eus" />
+      <config projectName="RM_gazebo_plugins" targetName="actionlib_generate_messages_cpp" />
+      <config projectName="RM_gazebo_plugins" targetName="tf2_msgs_generate_messages_eus" />
       <config projectName="RM_gazebo_plugins" targetName="polled_camera_generate_messages_eus" />
-      <config projectName="RM_gazebo_plugins" targetName="tf_generate_messages_nodejs" />
+      <config projectName="RM_gazebo_plugins" targetName="sensor_msgs_generate_messages_eus" />
       <config projectName="RM_gazebo_plugins" targetName="gmock" />
       <config projectName="RM_gazebo_plugins" targetName="geometry_msgs_generate_messages_eus" />
       <config projectName="RM_gazebo_plugins" targetName="nav_msgs_generate_messages_cpp" />
-      <config projectName="RM_gazebo_plugins" targetName="tf2_msgs_generate_messages_eus" />
+      <config projectName="RM_gazebo_plugins" targetName="bond_generate_messages_lisp" />
       <config projectName="RM_gazebo_plugins" targetName="trajectory_msgs_generate_messages_nodejs" />
-      <config projectName="RM_gazebo_plugins" targetName="actionlib_msgs_generate_messages_nodejs" />
-      <config projectName="RM_gazebo_plugins" targetName="tf_generate_messages_cpp" />
+      <config projectName="RM_gazebo_plugins" targetName="sensor_msgs_generate_messages_py" />
       <config projectName="RM_gazebo_plugins" targetName="std_msgs_generate_messages_lisp" />
+      <config projectName="RM_gazebo_plugins" targetName="doxygen" />
+      <config projectName="RM_gazebo_plugins" targetName="std_msgs_generate_messages_py" />
+      <config projectName="RM_gazebo_plugins" targetName="gazebo_msgs_generate_messages_lisp" />
       <config projectName="RM_gazebo_plugins" targetName="tf2_msgs_generate_messages_nodejs" />
       <config projectName="RM_gazebo_plugins" targetName="rosgraph_msgs_generate_messages_eus" />
       <config projectName="RM_gazebo_plugins" targetName="trajectory_msgs_generate_messages_cpp" />
-      <config projectName="RM_gazebo_plugins" targetName="actionlib_generate_messages_cpp" />
-      <config projectName="RM_gazebo_plugins" targetName="gazebo_msgs_generate_messages_eus" />
-      <config projectName="RM_gazebo_plugins" targetName="sensor_msgs_generate_messages_py" />
+      <config projectName="RM_gazebo_plugins" targetName="tf2_msgs_generate_messages_lisp" />
+      <config projectName="RM_gazebo_plugins" targetName="run_tests" />
       <config projectName="RM_gazebo_plugins" targetName="nodelet_generate_messages_eus" />
       <config projectName="RM_gazebo_plugins" targetName="RMDrive" />
       <config projectName="RM_gazebo_plugins" targetName="nav_msgs_generate_messages_py" />
       <config projectName="RM_gazebo_plugins" targetName="geometry_msgs_generate_messages_lisp" />
       <config projectName="RM_gazebo_plugins" targetName="actionlib_msgs_generate_messages_eus" />
       <config projectName="RM_gazebo_plugins" targetName="gtest_main" />
+      <config projectName="RM_gazebo_plugins" targetName="polled_camera_generate_messages_py" />
       <config projectName="RM_gazebo_plugins" targetName="polled_camera_generate_messages_nodejs" />
       <config projectName="RM_gazebo_plugins" targetName="tests" />
-      <config projectName="RM_gazebo_plugins" targetName="std_msgs_generate_messages_py" />
+      <config projectName="RM_gazebo_plugins" targetName="roscpp_generate_messages_lisp" />
       <config projectName="RM_gazebo_plugins" targetName="nav_msgs_generate_messages_eus" />
-      <config projectName="RM_gazebo_plugins" targetName="bond_generate_messages_lisp" />
-      <config projectName="RM_gazebo_plugins" targetName="std_msgs_generate_messages_nodejs" />
+      <config projectName="RM_gazebo_plugins" targetName="geometry_msgs_generate_messages_py" />
       <config projectName="RM_gazebo_plugins" targetName="bond_generate_messages_cpp" />
       <config projectName="RM_gazebo_plugins" targetName="trajectory_msgs_generate_messages_py" />
       <config projectName="RM_gazebo_plugins" targetName="dynamic_reconfigure_generate_messages_cpp" />
       <config projectName="RM_gazebo_plugins" targetName="rosgraph_msgs_generate_messages_nodejs" />
-      <config projectName="RM_gazebo_plugins" targetName="nodelet_generate_messages_lisp" />
       <config projectName="RM_gazebo_plugins" targetName="std_srvs_generate_messages_lisp" />
       <config projectName="RM_gazebo_plugins" targetName="tf_generate_messages_eus" />
       <config projectName="RM_gazebo_plugins" targetName="nodelet_generate_messages_nodejs" />
       <config projectName="RM_gazebo_plugins" targetName="roscpp_generate_messages_py" />
       <config projectName="RM_gazebo_plugins" targetName="gtest" />
       <config projectName="RM_gazebo_plugins" targetName="trajectory_msgs_generate_messages_eus" />
-      <config projectName="RM_gazebo_plugins" targetName="roscpp_generate_messages_lisp" />
       <config projectName="RM_gazebo_plugins" targetName="actionlib_generate_messages_eus" />
+      <config projectName="RM_gazebo_plugins" targetName="std_msgs_generate_messages_nodejs" />
       <config projectName="RM_gazebo_plugins" targetName="sensor_msgs_generate_messages_nodejs" />
       <config projectName="RM_gazebo_plugins" targetName="clean_test_results" />
       <config projectName="RM_gazebo_plugins" targetName="dynamic_reconfigure_generate_messages_lisp" />
@@ -54,54 +55,53 @@
       <config projectName="RM_gazebo_plugins" targetName="gazebo_msgs_generate_messages_nodejs" />
       <config projectName="RM_gazebo_plugins" targetName="actionlib_generate_messages_lisp" />
       <config projectName="RM_gazebo_plugins" targetName="download_extra_data" />
-      <config projectName="RM_gazebo_plugins" targetName="tf2_msgs_generate_messages_lisp" />
-      <config projectName="RM_gazebo_plugins" targetName="polled_camera_generate_messages_py" />
+      <config projectName="RM_gazebo_plugins" targetName="diagnostic_msgs_generate_messages_cpp" />
       <config projectName="RM_gazebo_plugins" targetName="actionlib_msgs_generate_messages_py" />
       <config projectName="RM_gazebo_plugins" targetName="nodelet_generate_messages_py" />
       <config projectName="RM_gazebo_plugins" targetName="bond_generate_messages_eus" />
+      <config projectName="RM_gazebo_plugins" targetName="tf_generate_messages_cpp" />
       <config projectName="RM_gazebo_plugins" targetName="roscpp_generate_messages_cpp" />
       <config projectName="RM_gazebo_plugins" targetName="dynamic_reconfigure_generate_messages_eus" />
       <config projectName="RM_gazebo_plugins" targetName="std_srvs_generate_messages_py" />
       <config projectName="RM_gazebo_plugins" targetName="actionlib_generate_messages_py" />
       <config projectName="RM_gazebo_plugins" targetName="std_srvs_generate_messages_cpp" />
       <config projectName="RM_gazebo_plugins" targetName="rosgraph_msgs_generate_messages_py" />
+      <config projectName="RM_gazebo_plugins" targetName="geometry_msgs_generate_messages_cpp" />
       <config projectName="RM_gazebo_plugins" targetName="bond_generate_messages_nodejs" />
       <config projectName="RM_gazebo_plugins" targetName="tf2_msgs_generate_messages_py" />
       <config projectName="RM_gazebo_plugins" targetName="actionlib_generate_messages_nodejs" />
       <config projectName="RM_gazebo_plugins" targetName="std_msgs_generate_messages_cpp" />
       <config projectName="RM_gazebo_plugins" targetName="roscpp_generate_messages_eus" />
       <config projectName="RM_gazebo_plugins" targetName="std_srvs_generate_messages_eus" />
-      <config projectName="RM_gazebo_plugins" targetName="trajectory_msgs_generate_messages_lisp" />
+      <config projectName="RM_gazebo_plugins" targetName="tf_generate_messages_nodejs" />
       <config projectName="RM_gazebo_plugins" targetName="dynamic_reconfigure_generate_messages_py" />
+      <config projectName="RM_gazebo_plugins" targetName="polled_camera_generate_messages_lisp" />
       <config projectName="RM_gazebo_plugins" targetName="diagnostic_msgs_generate_messages_eus" />
       <config projectName="RM_gazebo_plugins" targetName="gazebo_msgs_generate_messages_cpp" />
       <config projectName="RM_gazebo_plugins" targetName="diagnostic_msgs_generate_messages_lisp" />
       <config projectName="RM_gazebo_plugins" targetName="nav_msgs_generate_messages_nodejs" />
       <config projectName="RM_gazebo_plugins" targetName="polled_camera_generate_messages_cpp" />
       <config projectName="RM_gazebo_plugins" targetName="tf_generate_messages_py" />
-      <config projectName="RM_gazebo_plugins" targetName="geometry_msgs_generate_messages_cpp" />
+      <config projectName="RM_gazebo_plugins" targetName="gazebo_msgs_generate_messages_py" />
       <config projectName="RM_gazebo_plugins" targetName="sensor_msgs_generate_messages_cpp" />
-      <config projectName="RM_gazebo_plugins" targetName="run_tests" />
+      <config projectName="RM_gazebo_plugins" targetName="tf_generate_messages_lisp" />
       <config projectName="RM_gazebo_plugins" targetName="tf2_msgs_generate_messages_cpp" />
+      <config projectName="RM_gazebo_plugins" targetName="trajectory_msgs_generate_messages_lisp" />
       <config projectName="RM_gazebo_plugins" targetName="gmock_main" />
       <config projectName="RM_gazebo_plugins" targetName="_catkin_empty_exported_target" />
       <config projectName="RM_gazebo_plugins" targetName="diagnostic_msgs_generate_messages_nodejs" />
-      <config projectName="RM_gazebo_plugins" targetName="diagnostic_msgs_generate_messages_cpp" />
-      <config projectName="RM_gazebo_plugins" targetName="doxygen" />
-      <config projectName="RM_gazebo_plugins" targetName="tf_generate_messages_lisp" />
+      <config projectName="RM_gazebo_plugins" targetName="dynamic_reconfigure_generate_messages_nodejs" />
+      <config projectName="RM_gazebo_plugins" targetName="geometry_msgs_generate_messages_nodejs" />
       <config projectName="RM_gazebo_plugins" targetName="rosgraph_msgs_generate_messages_cpp" />
       <config projectName="RM_gazebo_plugins" targetName="std_msgs_generate_messages_eus" />
-      <config projectName="RM_gazebo_plugins" targetName="gazebo_msgs_generate_messages_py" />
+      <config projectName="RM_gazebo_plugins" targetName="nodelet_generate_messages_lisp" />
       <config projectName="RM_gazebo_plugins" targetName="dynamic_reconfigure_gencfg" />
-      <config projectName="RM_gazebo_plugins" targetName="geometry_msgs_generate_messages_nodejs" />
-      <config projectName="RM_gazebo_plugins" targetName="polled_camera_generate_messages_lisp" />
+      <config projectName="RM_gazebo_plugins" targetName="actionlib_msgs_generate_messages_nodejs" />
       <config projectName="RM_gazebo_plugins" targetName="nodelet_generate_messages_cpp" />
-      <config projectName="RM_gazebo_plugins" targetName="dynamic_reconfigure_generate_messages_nodejs" />
       <config projectName="RM_gazebo_plugins" targetName="nav_msgs_generate_messages_lisp" />
       <config projectName="RM_gazebo_plugins" targetName="bond_generate_messages_py" />
       <config projectName="RM_gazebo_plugins" targetName="actionlib_msgs_generate_messages_cpp" />
       <config projectName="RM_gazebo_plugins" targetName="diagnostic_msgs_generate_messages_py" />
-      <config projectName="RM_gazebo_plugins" targetName="gazebo_msgs_generate_messages_lisp" />
       <config projectName="RM_gazebo_plugins" targetName="roscpp_generate_messages_nodejs" />
       <config projectName="RM_gazebo_plugins" targetName="std_srvs_generate_messages_nodejs" />
     </generated>
@@ -124,21 +124,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="RMDrive.cpp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/RMDrive.cpp">
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="347" column="26" lean-forward="false" selection-start-line="347" selection-start-column="26" selection-end-line="347" selection-end-column="26" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <file leaf-file-name="RMDrive_fuck.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/RMDrive_fuck.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-161">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="200">
+              <caret line="338" column="38" lean-forward="false" selection-start-line="338" selection-start-column="38" selection-end-line="338" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -167,7 +167,7 @@
       <file leaf-file-name="RMDrive.h" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/include/RMDrive.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
+            <state relative-caret-position="1550">
               <caret line="62" column="21" lean-forward="false" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
               <folding>
                 <element signature="e#153#167#0" expanded="true" />
@@ -198,6 +198,7 @@
       <list>
         <option value="$PROJECT_DIR$/include/RMDrive.h" />
         <option value="$PROJECT_DIR$/src/RMDrive.cpp" />
+        <option value="$PROJECT_DIR$/src/RMDrive_fuck.cpp" />
       </list>
     </option>
   </component>
@@ -711,25 +712,29 @@
       <workItem from="1523612998207" duration="684000" />
       <workItem from="1523620706879" duration="1143000" />
       <workItem from="1523630799252" duration="2461000" />
+      <workItem from="1523710636861" duration="83000" />
+      <workItem from="1523731218658" duration="126000" />
+      <workItem from="1523896271798" duration="316000" />
+      <workItem from="1524214304141" duration="84000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8591000" />
+    <option name="totallyTimeSpent" value="9200000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="81" y="-5" width="1841" height="1086" extended-state="6" />
+    <frame x="81" y="30" width="1839" height="1050" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959217" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959217" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -750,7 +755,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/RMDrive.cpp">
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -758,6 +763,165 @@
         </state>
       </provider>
     </entry>
+    <entry file="file:///usr/include/gazebo-7/gazebo/physics/Entity.hh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2775">
+          <caret line="111" column="23" lean-forward="false" selection-start-line="111" selection-start-column="23" selection-end-line="111" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/gazebo-7/gazebo/math/Pose.hh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="36" column="26" lean-forward="false" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/RMDrive.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1550">
+          <caret line="62" column="21" lean-forward="false" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
+          <folding>
+            <element signature="e#153#167#0" expanded="true" />
+            <element signature="e#249#269#0" expanded="true" />
+            <element signature="e#469#500#0" expanded="true" />
+            <element signature="e#546#573#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RMDrive_fuck.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8450">
+          <caret line="338" column="38" lean-forward="false" selection-start-line="338" selection-start-column="38" selection-end-line="338" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/gazebo-7/gazebo/physics/Entity.hh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2775">
+          <caret line="111" column="23" lean-forward="false" selection-start-line="111" selection-start-column="23" selection-end-line="111" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/gazebo-7/gazebo/math/Pose.hh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="36" column="26" lean-forward="false" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/RMDrive.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1550">
+          <caret line="62" column="21" lean-forward="false" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
+          <folding>
+            <element signature="e#153#167#0" expanded="true" />
+            <element signature="e#249#269#0" expanded="true" />
+            <element signature="e#469#500#0" expanded="true" />
+            <element signature="e#546#573#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RMDrive_fuck.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9075">
+          <caret line="363" column="48" lean-forward="false" selection-start-line="363" selection-start-column="48" selection-end-line="363" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RMDrive.cpp" />
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/gazebo-7/gazebo/physics/Entity.hh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2775">
+          <caret line="111" column="23" lean-forward="false" selection-start-line="111" selection-start-column="23" selection-end-line="111" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/gazebo-7/gazebo/math/Pose.hh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="36" column="26" lean-forward="false" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/RMDrive.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1550">
+          <caret line="62" column="21" lean-forward="false" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
+          <folding>
+            <element signature="e#153#167#0" expanded="true" />
+            <element signature="e#249#269#0" expanded="true" />
+            <element signature="e#469#500#0" expanded="true" />
+            <element signature="e#546#573#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RMDrive.cpp" />
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/gazebo-7/gazebo/physics/Entity.hh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2775">
+          <caret line="111" column="23" lean-forward="false" selection-start-line="111" selection-start-column="23" selection-end-line="111" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/gazebo-7/gazebo/math/Pose.hh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="36" column="26" lean-forward="false" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/RMDrive.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1550">
+          <caret line="62" column="21" lean-forward="false" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
+          <folding>
+            <element signature="e#153#167#0" expanded="true" />
+            <element signature="e#249#269#0" expanded="true" />
+            <element signature="e#469#500#0" expanded="true" />
+            <element signature="e#546#573#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RMDrive.cpp" />
     <entry file="file:///usr/include/gazebo-7/gazebo/physics/Entity.hh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2775">
@@ -787,14 +951,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RMDrive.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RMDrive.cpp" />
     <entry file="file://$PROJECT_DIR$/include/RMDrive.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1825">
@@ -808,14 +965,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RMDrive.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RMDrive.cpp" />
     <entry file="file://$PROJECT_DIR$/include/RMDrive.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1825">
@@ -829,14 +979,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RMDrive.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RMDrive.cpp" />
     <entry file="file://$PROJECT_DIR$/include/RMDrive.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1775">
@@ -850,14 +993,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RMDrive.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RMDrive.cpp" />
     <entry file="file://$PROJECT_DIR$/include/RMDrive.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1775">
@@ -896,7 +1032,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/include/RMDrive.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
+        <state relative-caret-position="1550">
           <caret line="62" column="21" lean-forward="false" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
           <folding>
             <element signature="e#153#167#0" expanded="true" />
@@ -907,18 +1043,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/RMDrive.cpp" />
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-161">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RMDrive.cpp">
+    <entry file="file://$PROJECT_DIR$/src/RMDrive_fuck.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="347" column="26" lean-forward="false" selection-start-line="347" selection-start-column="26" selection-end-line="347" selection-end-column="26" />
+        <state relative-caret-position="200">
+          <caret line="338" column="38" lean-forward="false" selection-start-line="338" selection-start-column="38" selection-end-line="338" selection-end-column="38" />
           <folding />
         </state>
       </provider>

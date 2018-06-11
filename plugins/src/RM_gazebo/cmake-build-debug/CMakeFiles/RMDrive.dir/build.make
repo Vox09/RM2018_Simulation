@@ -57,38 +57,38 @@ include CMakeFiles/RMDrive.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/RMDrive.dir/flags.make
 
-CMakeFiles/RMDrive.dir/src/RMDrive.cpp.o: CMakeFiles/RMDrive.dir/flags.make
-CMakeFiles/RMDrive.dir/src/RMDrive.cpp.o: ../src/RMDrive.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/RMDrive.dir/src/RMDrive.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/RMDrive.dir/src/RMDrive.cpp.o -c /home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo/src/RMDrive.cpp
+CMakeFiles/RMDrive.dir/src/RMDrive_fuck.cpp.o: CMakeFiles/RMDrive.dir/flags.make
+CMakeFiles/RMDrive.dir/src/RMDrive_fuck.cpp.o: ../src/RMDrive_fuck.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/RMDrive.dir/src/RMDrive_fuck.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/RMDrive.dir/src/RMDrive_fuck.cpp.o -c /home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo/src/RMDrive_fuck.cpp
 
-CMakeFiles/RMDrive.dir/src/RMDrive.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/RMDrive.dir/src/RMDrive.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo/src/RMDrive.cpp > CMakeFiles/RMDrive.dir/src/RMDrive.cpp.i
+CMakeFiles/RMDrive.dir/src/RMDrive_fuck.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/RMDrive.dir/src/RMDrive_fuck.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo/src/RMDrive_fuck.cpp > CMakeFiles/RMDrive.dir/src/RMDrive_fuck.cpp.i
 
-CMakeFiles/RMDrive.dir/src/RMDrive.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/RMDrive.dir/src/RMDrive.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo/src/RMDrive.cpp -o CMakeFiles/RMDrive.dir/src/RMDrive.cpp.s
+CMakeFiles/RMDrive.dir/src/RMDrive_fuck.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/RMDrive.dir/src/RMDrive_fuck.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo/src/RMDrive_fuck.cpp -o CMakeFiles/RMDrive.dir/src/RMDrive_fuck.cpp.s
 
-CMakeFiles/RMDrive.dir/src/RMDrive.cpp.o.requires:
+CMakeFiles/RMDrive.dir/src/RMDrive_fuck.cpp.o.requires:
 
-.PHONY : CMakeFiles/RMDrive.dir/src/RMDrive.cpp.o.requires
+.PHONY : CMakeFiles/RMDrive.dir/src/RMDrive_fuck.cpp.o.requires
 
-CMakeFiles/RMDrive.dir/src/RMDrive.cpp.o.provides: CMakeFiles/RMDrive.dir/src/RMDrive.cpp.o.requires
-	$(MAKE) -f CMakeFiles/RMDrive.dir/build.make CMakeFiles/RMDrive.dir/src/RMDrive.cpp.o.provides.build
-.PHONY : CMakeFiles/RMDrive.dir/src/RMDrive.cpp.o.provides
+CMakeFiles/RMDrive.dir/src/RMDrive_fuck.cpp.o.provides: CMakeFiles/RMDrive.dir/src/RMDrive_fuck.cpp.o.requires
+	$(MAKE) -f CMakeFiles/RMDrive.dir/build.make CMakeFiles/RMDrive.dir/src/RMDrive_fuck.cpp.o.provides.build
+.PHONY : CMakeFiles/RMDrive.dir/src/RMDrive_fuck.cpp.o.provides
 
-CMakeFiles/RMDrive.dir/src/RMDrive.cpp.o.provides.build: CMakeFiles/RMDrive.dir/src/RMDrive.cpp.o
+CMakeFiles/RMDrive.dir/src/RMDrive_fuck.cpp.o.provides.build: CMakeFiles/RMDrive.dir/src/RMDrive_fuck.cpp.o
 
 
 # Object files for target RMDrive
 RMDrive_OBJECTS = \
-"CMakeFiles/RMDrive.dir/src/RMDrive.cpp.o"
+"CMakeFiles/RMDrive.dir/src/RMDrive_fuck.cpp.o"
 
 # External object files for target RMDrive
 RMDrive_EXTERNAL_OBJECTS =
 
-libRMDrive.so: CMakeFiles/RMDrive.dir/src/RMDrive.cpp.o
+libRMDrive.so: CMakeFiles/RMDrive.dir/src/RMDrive_fuck.cpp.o
 libRMDrive.so: CMakeFiles/RMDrive.dir/build.make
 libRMDrive.so: /usr/lib/x86_64-linux-gnu/libgazebo.so
 libRMDrive.so: /usr/lib/x86_64-linux-gnu/libgazebo_client.so
@@ -143,9 +143,9 @@ libRMDrive.so: /opt/ros/kinetic/lib/libactionlib.so
 libRMDrive.so: /opt/ros/kinetic/lib/libtf2.so
 libRMDrive.so: /opt/ros/kinetic/lib/libdynamic_reconfigure_config_init_mutex.so
 libRMDrive.so: /opt/ros/kinetic/lib/libcv_bridge.so
-libRMDrive.so: /opt/ros/kinetic/lib/libopencv_core3.so.3.3.1
-libRMDrive.so: /opt/ros/kinetic/lib/libopencv_imgproc3.so.3.3.1
-libRMDrive.so: /opt/ros/kinetic/lib/libopencv_imgcodecs3.so.3.3.1
+libRMDrive.so: /opt/ros/kinetic/lib/x86_64-linux-gnu/libopencv_core3.so.3.3.1
+libRMDrive.so: /opt/ros/kinetic/lib/x86_64-linux-gnu/libopencv_imgproc3.so.3.3.1
+libRMDrive.so: /opt/ros/kinetic/lib/x86_64-linux-gnu/libopencv_imgcodecs3.so.3.3.1
 libRMDrive.so: /opt/ros/kinetic/lib/libpolled_camera.so
 libRMDrive.so: /opt/ros/kinetic/lib/libimage_transport.so
 libRMDrive.so: /opt/ros/kinetic/lib/libmessage_filters.so
@@ -210,9 +210,9 @@ libRMDrive.so: /opt/ros/kinetic/lib/libactionlib.so
 libRMDrive.so: /opt/ros/kinetic/lib/libtf2.so
 libRMDrive.so: /opt/ros/kinetic/lib/libdynamic_reconfigure_config_init_mutex.so
 libRMDrive.so: /opt/ros/kinetic/lib/libcv_bridge.so
-libRMDrive.so: /opt/ros/kinetic/lib/libopencv_core3.so.3.3.1
-libRMDrive.so: /opt/ros/kinetic/lib/libopencv_imgproc3.so.3.3.1
-libRMDrive.so: /opt/ros/kinetic/lib/libopencv_imgcodecs3.so.3.3.1
+libRMDrive.so: /opt/ros/kinetic/lib/x86_64-linux-gnu/libopencv_core3.so.3.3.1
+libRMDrive.so: /opt/ros/kinetic/lib/x86_64-linux-gnu/libopencv_imgproc3.so.3.3.1
+libRMDrive.so: /opt/ros/kinetic/lib/x86_64-linux-gnu/libopencv_imgcodecs3.so.3.3.1
 libRMDrive.so: /opt/ros/kinetic/lib/libpolled_camera.so
 libRMDrive.so: /opt/ros/kinetic/lib/libimage_transport.so
 libRMDrive.so: /opt/ros/kinetic/lib/libmessage_filters.so
@@ -246,7 +246,7 @@ CMakeFiles/RMDrive.dir/build: libRMDrive.so
 
 .PHONY : CMakeFiles/RMDrive.dir/build
 
-CMakeFiles/RMDrive.dir/requires: CMakeFiles/RMDrive.dir/src/RMDrive.cpp.o.requires
+CMakeFiles/RMDrive.dir/requires: CMakeFiles/RMDrive.dir/src/RMDrive_fuck.cpp.o.requires
 
 .PHONY : CMakeFiles/RMDrive.dir/requires
 
