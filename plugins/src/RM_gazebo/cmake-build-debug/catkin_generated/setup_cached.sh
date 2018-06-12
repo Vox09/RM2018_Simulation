@@ -7,6 +7,6 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo/cmake-build-debug/devel:$CMAKE_PREFIX_PATH"
-export ROSLISP_PACKAGE_DIRECTORIES="/home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo/cmake-build-debug/devel/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
-export ROS_PACKAGE_PATH="/home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo:$ROS_PACKAGE_PATH"
+export CMAKE_PREFIX_PATH="/home/destinxxy/catkin_ws/src/rm2018_Simulation/plugins/src/RM_gazebo/cmake-build-debug/devel:$CMAKE_PREFIX_PATH"
+export ROSLISP_PACKAGE_DIRECTORIES="/home/destinxxy/catkin_ws/src/rm2018_Simulation/plugins/src/RM_gazebo/cmake-build-debug/devel/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
+export ROS_PACKAGE_PATH="/home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo:/home/destinxxy/catkin_ws/src/rm2018_Simulation/plugins/src/RM_gazebo:$ROS_PACKAGE_PATH"

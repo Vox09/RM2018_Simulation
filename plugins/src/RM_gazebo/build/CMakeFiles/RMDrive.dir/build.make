@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo
+CMAKE_SOURCE_DIR = /home/destinxxy/catkin_ws/src/rm2018_Simulation/plugins/src/RM_gazebo
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo/build
+CMAKE_BINARY_DIR = /home/destinxxy/catkin_ws/src/rm2018_Simulation/plugins/src/RM_gazebo/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/RMDrive.dir/depend.make
@@ -57,38 +57,38 @@ include CMakeFiles/RMDrive.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/RMDrive.dir/flags.make
 
-CMakeFiles/RMDrive.dir/src/RMDrive_fuck.cpp.o: CMakeFiles/RMDrive.dir/flags.make
-CMakeFiles/RMDrive.dir/src/RMDrive_fuck.cpp.o: ../src/RMDrive_fuck.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/RMDrive.dir/src/RMDrive_fuck.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/RMDrive.dir/src/RMDrive_fuck.cpp.o -c /home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo/src/RMDrive_fuck.cpp
+CMakeFiles/RMDrive.dir/src/RMDrive_pla.cpp.o: CMakeFiles/RMDrive.dir/flags.make
+CMakeFiles/RMDrive.dir/src/RMDrive_pla.cpp.o: ../src/RMDrive_pla.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/destinxxy/catkin_ws/src/rm2018_Simulation/plugins/src/RM_gazebo/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/RMDrive.dir/src/RMDrive_pla.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/RMDrive.dir/src/RMDrive_pla.cpp.o -c /home/destinxxy/catkin_ws/src/rm2018_Simulation/plugins/src/RM_gazebo/src/RMDrive_pla.cpp
 
-CMakeFiles/RMDrive.dir/src/RMDrive_fuck.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/RMDrive.dir/src/RMDrive_fuck.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo/src/RMDrive_fuck.cpp > CMakeFiles/RMDrive.dir/src/RMDrive_fuck.cpp.i
+CMakeFiles/RMDrive.dir/src/RMDrive_pla.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/RMDrive.dir/src/RMDrive_pla.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/destinxxy/catkin_ws/src/rm2018_Simulation/plugins/src/RM_gazebo/src/RMDrive_pla.cpp > CMakeFiles/RMDrive.dir/src/RMDrive_pla.cpp.i
 
-CMakeFiles/RMDrive.dir/src/RMDrive_fuck.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/RMDrive.dir/src/RMDrive_fuck.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo/src/RMDrive_fuck.cpp -o CMakeFiles/RMDrive.dir/src/RMDrive_fuck.cpp.s
+CMakeFiles/RMDrive.dir/src/RMDrive_pla.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/RMDrive.dir/src/RMDrive_pla.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/destinxxy/catkin_ws/src/rm2018_Simulation/plugins/src/RM_gazebo/src/RMDrive_pla.cpp -o CMakeFiles/RMDrive.dir/src/RMDrive_pla.cpp.s
 
-CMakeFiles/RMDrive.dir/src/RMDrive_fuck.cpp.o.requires:
+CMakeFiles/RMDrive.dir/src/RMDrive_pla.cpp.o.requires:
 
-.PHONY : CMakeFiles/RMDrive.dir/src/RMDrive_fuck.cpp.o.requires
+.PHONY : CMakeFiles/RMDrive.dir/src/RMDrive_pla.cpp.o.requires
 
-CMakeFiles/RMDrive.dir/src/RMDrive_fuck.cpp.o.provides: CMakeFiles/RMDrive.dir/src/RMDrive_fuck.cpp.o.requires
-	$(MAKE) -f CMakeFiles/RMDrive.dir/build.make CMakeFiles/RMDrive.dir/src/RMDrive_fuck.cpp.o.provides.build
-.PHONY : CMakeFiles/RMDrive.dir/src/RMDrive_fuck.cpp.o.provides
+CMakeFiles/RMDrive.dir/src/RMDrive_pla.cpp.o.provides: CMakeFiles/RMDrive.dir/src/RMDrive_pla.cpp.o.requires
+	$(MAKE) -f CMakeFiles/RMDrive.dir/build.make CMakeFiles/RMDrive.dir/src/RMDrive_pla.cpp.o.provides.build
+.PHONY : CMakeFiles/RMDrive.dir/src/RMDrive_pla.cpp.o.provides
 
-CMakeFiles/RMDrive.dir/src/RMDrive_fuck.cpp.o.provides.build: CMakeFiles/RMDrive.dir/src/RMDrive_fuck.cpp.o
+CMakeFiles/RMDrive.dir/src/RMDrive_pla.cpp.o.provides.build: CMakeFiles/RMDrive.dir/src/RMDrive_pla.cpp.o
 
 
 # Object files for target RMDrive
 RMDrive_OBJECTS = \
-"CMakeFiles/RMDrive.dir/src/RMDrive_fuck.cpp.o"
+"CMakeFiles/RMDrive.dir/src/RMDrive_pla.cpp.o"
 
 # External object files for target RMDrive
 RMDrive_EXTERNAL_OBJECTS =
 
-libRMDrive.so: CMakeFiles/RMDrive.dir/src/RMDrive_fuck.cpp.o
+libRMDrive.so: CMakeFiles/RMDrive.dir/src/RMDrive_pla.cpp.o
 libRMDrive.so: CMakeFiles/RMDrive.dir/build.make
 libRMDrive.so: /usr/lib/x86_64-linux-gnu/libgazebo.so
 libRMDrive.so: /usr/lib/x86_64-linux-gnu/libgazebo_client.so
@@ -240,7 +240,7 @@ libRMDrive.so: /opt/ros/kinetic/lib/librostime.so
 libRMDrive.so: /opt/ros/kinetic/lib/libcpp_common.so
 libRMDrive.so: /usr/lib/x86_64-linux-gnu/libconsole_bridge.so
 libRMDrive.so: CMakeFiles/RMDrive.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX shared library libRMDrive.so"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/destinxxy/catkin_ws/src/rm2018_Simulation/plugins/src/RM_gazebo/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX shared library libRMDrive.so"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/RMDrive.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -248,7 +248,7 @@ CMakeFiles/RMDrive.dir/build: libRMDrive.so
 
 .PHONY : CMakeFiles/RMDrive.dir/build
 
-CMakeFiles/RMDrive.dir/requires: CMakeFiles/RMDrive.dir/src/RMDrive_fuck.cpp.o.requires
+CMakeFiles/RMDrive.dir/requires: CMakeFiles/RMDrive.dir/src/RMDrive_pla.cpp.o.requires
 
 .PHONY : CMakeFiles/RMDrive.dir/requires
 
@@ -257,6 +257,6 @@ CMakeFiles/RMDrive.dir/clean:
 .PHONY : CMakeFiles/RMDrive.dir/clean
 
 CMakeFiles/RMDrive.dir/depend:
-	cd /home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo /home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo /home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo/build /home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo/build /home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo/build/CMakeFiles/RMDrive.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/destinxxy/catkin_ws/src/rm2018_Simulation/plugins/src/RM_gazebo/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/destinxxy/catkin_ws/src/rm2018_Simulation/plugins/src/RM_gazebo /home/destinxxy/catkin_ws/src/rm2018_Simulation/plugins/src/RM_gazebo /home/destinxxy/catkin_ws/src/rm2018_Simulation/plugins/src/RM_gazebo/build /home/destinxxy/catkin_ws/src/rm2018_Simulation/plugins/src/RM_gazebo/build /home/destinxxy/catkin_ws/src/rm2018_Simulation/plugins/src/RM_gazebo/build/CMakeFiles/RMDrive.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/RMDrive.dir/depend
 

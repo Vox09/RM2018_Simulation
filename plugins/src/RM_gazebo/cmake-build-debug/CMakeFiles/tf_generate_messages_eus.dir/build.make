@@ -43,10 +43,10 @@ RM = /home/destinxxy/Program/clion-2017.3.2/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo
+CMAKE_SOURCE_DIR = /home/destinxxy/catkin_ws/src/rm2018_Simulation/plugins/src/RM_gazebo
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo/cmake-build-debug
+CMAKE_BINARY_DIR = /home/destinxxy/catkin_ws/src/rm2018_Simulation/plugins/src/RM_gazebo/cmake-build-debug
 
 # Utility rule file for tf_generate_messages_eus.
 
@@ -67,6 +67,6 @@ CMakeFiles/tf_generate_messages_eus.dir/clean:
 .PHONY : CMakeFiles/tf_generate_messages_eus.dir/clean
 
 CMakeFiles/tf_generate_messages_eus.dir/depend:
-	cd /home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo /home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo /home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo/cmake-build-debug /home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo/cmake-build-debug /home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo/cmake-build-debug/CMakeFiles/tf_generate_messages_eus.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/destinxxy/catkin_ws/src/rm2018_Simulation/plugins/src/RM_gazebo/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/destinxxy/catkin_ws/src/rm2018_Simulation/plugins/src/RM_gazebo /home/destinxxy/catkin_ws/src/rm2018_Simulation/plugins/src/RM_gazebo /home/destinxxy/catkin_ws/src/rm2018_Simulation/plugins/src/RM_gazebo/cmake-build-debug /home/destinxxy/catkin_ws/src/rm2018_Simulation/plugins/src/RM_gazebo/cmake-build-debug /home/destinxxy/catkin_ws/src/rm2018_Simulation/plugins/src/RM_gazebo/cmake-build-debug/CMakeFiles/tf_generate_messages_eus.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/tf_generate_messages_eus.dir/depend
 

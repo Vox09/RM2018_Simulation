@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/RMDrive.dir/src/RMDrive_fuck.cpp.o"
+  "CMakeFiles/RMDrive.dir/src/RMDrive_pla.cpp.o"
   "libRMDrive.pdb"
   "libRMDrive.so"
 )

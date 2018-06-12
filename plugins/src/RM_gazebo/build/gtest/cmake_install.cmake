@@ -34,7 +34,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo/build/gtest/gtest/cmake_install.cmake")
+  include("/home/destinxxy/catkin_ws/src/rm2018_Simulation/plugins/src/RM_gazebo/build/gtest/gtest/cmake_install.cmake")
 
 endif()
 

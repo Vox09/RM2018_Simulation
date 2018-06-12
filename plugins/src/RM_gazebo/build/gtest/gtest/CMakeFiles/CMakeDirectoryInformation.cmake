@@ -3,7 +3,7 @@
 
 # Relative path conversion top directories.
 set(CMAKE_RELATIVE_PATH_TOP_SOURCE "/usr/src/gtest")
-set(CMAKE_RELATIVE_PATH_TOP_BINARY "/home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo/build")
+set(CMAKE_RELATIVE_PATH_TOP_BINARY "/home/destinxxy/catkin_ws/src/rm2018_Simulation/plugins/src/RM_gazebo/build")
 
 # Force unix paths in dependencies.
 set(CMAKE_FORCE_UNIX_PATHS 1)

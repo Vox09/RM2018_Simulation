@@ -34,7 +34,7 @@ boost/thread.hpp
 boost/bind.hpp
 -
 
-/home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo/src/RMDrive_fuck.cpp
+/home/destinxxy/catkin_ws/src/rm2018_Simulation/plugins/src/RM_gazebo/src/RMDrive_pla.cpp
 algorithm
 -
 assert.h

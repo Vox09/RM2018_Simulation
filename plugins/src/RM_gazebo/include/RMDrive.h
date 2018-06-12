@@ -101,13 +101,11 @@ namespace gazebo {
       // DiffDrive stuff
       void cmdVelCallback(const geometry_msgs::Twist::ConstPtr& cmd_msg);
 
-      double a_;
       double x_;
       double y_;
       //double rot_;
       double pitch_;
-      double yaw_;
-      double fun_;
+      double rot_;
       bool alive_;
 
       // Update Rate

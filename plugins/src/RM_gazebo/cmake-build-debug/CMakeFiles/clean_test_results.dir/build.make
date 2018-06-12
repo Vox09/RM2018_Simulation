@@ -43,10 +43,10 @@ RM = /home/destinxxy/Program/clion-2017.3.2/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo
+CMAKE_SOURCE_DIR = /home/destinxxy/catkin_ws/src/rm2018_Simulation/plugins/src/RM_gazebo
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo/cmake-build-debug
+CMAKE_BINARY_DIR = /home/destinxxy/catkin_ws/src/rm2018_Simulation/plugins/src/RM_gazebo/cmake-build-debug
 
 # Utility rule file for clean_test_results.
 
@@ -54,7 +54,7 @@ CMAKE_BINARY_DIR = /home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/R
 include CMakeFiles/clean_test_results.dir/progress.make
 
 CMakeFiles/clean_test_results:
-	/usr/bin/python /opt/ros/kinetic/share/catkin/cmake/test/remove_test_results.py /home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo/cmake-build-debug/test_results
+	/usr/bin/python /opt/ros/kinetic/share/catkin/cmake/test/remove_test_results.py /home/destinxxy/catkin_ws/src/rm2018_Simulation/plugins/src/RM_gazebo/cmake-build-debug/test_results
 
 clean_test_results: CMakeFiles/clean_test_results
 clean_test_results: CMakeFiles/clean_test_results.dir/build.make
@@ -71,6 +71,6 @@ CMakeFiles/clean_test_results.dir/clean:
 .PHONY : CMakeFiles/clean_test_results.dir/clean
 
 CMakeFiles/clean_test_results.dir/depend:
-	cd /home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo /home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo /home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo/cmake-build-debug /home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo/cmake-build-debug /home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo/cmake-build-debug/CMakeFiles/clean_test_results.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/destinxxy/catkin_ws/src/rm2018_Simulation/plugins/src/RM_gazebo/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/destinxxy/catkin_ws/src/rm2018_Simulation/plugins/src/RM_gazebo /home/destinxxy/catkin_ws/src/rm2018_Simulation/plugins/src/RM_gazebo /home/destinxxy/catkin_ws/src/rm2018_Simulation/plugins/src/RM_gazebo/cmake-build-debug /home/destinxxy/catkin_ws/src/rm2018_Simulation/plugins/src/RM_gazebo/cmake-build-debug /home/destinxxy/catkin_ws/src/rm2018_Simulation/plugins/src/RM_gazebo/cmake-build-debug/CMakeFiles/clean_test_results.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/clean_test_results.dir/depend
 

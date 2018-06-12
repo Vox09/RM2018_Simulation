@@ -25,7 +25,11 @@ number 0 is the blue vehicle
 
 number 1 is the red one 
 
+## v2.0 Update
+
+Treat whole robot as an entity to realize strafe function.
+Now directly set model's linear vel instead of simulating motors.
+
 ## TODO
-Improve control
-Develope strafe function(solve the simulation problem of mecanum wheel)
+Improve control scripts
 

@@ -2,108 +2,108 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
     <generated>
-      <config projectName="RM_gazebo_plugins" targetName="gazebo_msgs_generate_messages_eus" />
-      <config projectName="RM_gazebo_plugins" targetName="actionlib_generate_messages_cpp" />
-      <config projectName="RM_gazebo_plugins" targetName="tf2_msgs_generate_messages_eus" />
-      <config projectName="RM_gazebo_plugins" targetName="polled_camera_generate_messages_eus" />
-      <config projectName="RM_gazebo_plugins" targetName="sensor_msgs_generate_messages_eus" />
-      <config projectName="RM_gazebo_plugins" targetName="gmock" />
-      <config projectName="RM_gazebo_plugins" targetName="geometry_msgs_generate_messages_eus" />
-      <config projectName="RM_gazebo_plugins" targetName="nav_msgs_generate_messages_cpp" />
-      <config projectName="RM_gazebo_plugins" targetName="bond_generate_messages_lisp" />
-      <config projectName="RM_gazebo_plugins" targetName="trajectory_msgs_generate_messages_nodejs" />
-      <config projectName="RM_gazebo_plugins" targetName="sensor_msgs_generate_messages_py" />
-      <config projectName="RM_gazebo_plugins" targetName="std_msgs_generate_messages_lisp" />
-      <config projectName="RM_gazebo_plugins" targetName="doxygen" />
-      <config projectName="RM_gazebo_plugins" targetName="std_msgs_generate_messages_py" />
-      <config projectName="RM_gazebo_plugins" targetName="gazebo_msgs_generate_messages_lisp" />
-      <config projectName="RM_gazebo_plugins" targetName="tf2_msgs_generate_messages_nodejs" />
+      <config projectName="RM_gazebo_plugins" targetName="dynamic_reconfigure_generate_messages_py" />
+      <config projectName="RM_gazebo_plugins" targetName="dynamic_reconfigure_gencfg" />
+      <config projectName="RM_gazebo_plugins" targetName="nodelet_generate_messages_cpp" />
+      <config projectName="RM_gazebo_plugins" targetName="rosgraph_msgs_generate_messages_py" />
       <config projectName="RM_gazebo_plugins" targetName="rosgraph_msgs_generate_messages_eus" />
-      <config projectName="RM_gazebo_plugins" targetName="trajectory_msgs_generate_messages_cpp" />
-      <config projectName="RM_gazebo_plugins" targetName="tf2_msgs_generate_messages_lisp" />
-      <config projectName="RM_gazebo_plugins" targetName="run_tests" />
-      <config projectName="RM_gazebo_plugins" targetName="nodelet_generate_messages_eus" />
-      <config projectName="RM_gazebo_plugins" targetName="RMDrive" />
-      <config projectName="RM_gazebo_plugins" targetName="nav_msgs_generate_messages_py" />
-      <config projectName="RM_gazebo_plugins" targetName="geometry_msgs_generate_messages_lisp" />
-      <config projectName="RM_gazebo_plugins" targetName="actionlib_msgs_generate_messages_eus" />
-      <config projectName="RM_gazebo_plugins" targetName="gtest_main" />
-      <config projectName="RM_gazebo_plugins" targetName="polled_camera_generate_messages_py" />
-      <config projectName="RM_gazebo_plugins" targetName="polled_camera_generate_messages_nodejs" />
-      <config projectName="RM_gazebo_plugins" targetName="tests" />
-      <config projectName="RM_gazebo_plugins" targetName="roscpp_generate_messages_lisp" />
-      <config projectName="RM_gazebo_plugins" targetName="nav_msgs_generate_messages_eus" />
-      <config projectName="RM_gazebo_plugins" targetName="geometry_msgs_generate_messages_py" />
-      <config projectName="RM_gazebo_plugins" targetName="bond_generate_messages_cpp" />
-      <config projectName="RM_gazebo_plugins" targetName="trajectory_msgs_generate_messages_py" />
-      <config projectName="RM_gazebo_plugins" targetName="dynamic_reconfigure_generate_messages_cpp" />
-      <config projectName="RM_gazebo_plugins" targetName="rosgraph_msgs_generate_messages_nodejs" />
-      <config projectName="RM_gazebo_plugins" targetName="std_srvs_generate_messages_lisp" />
-      <config projectName="RM_gazebo_plugins" targetName="tf_generate_messages_eus" />
-      <config projectName="RM_gazebo_plugins" targetName="nodelet_generate_messages_nodejs" />
-      <config projectName="RM_gazebo_plugins" targetName="roscpp_generate_messages_py" />
-      <config projectName="RM_gazebo_plugins" targetName="gtest" />
-      <config projectName="RM_gazebo_plugins" targetName="trajectory_msgs_generate_messages_eus" />
-      <config projectName="RM_gazebo_plugins" targetName="actionlib_generate_messages_eus" />
-      <config projectName="RM_gazebo_plugins" targetName="std_msgs_generate_messages_nodejs" />
-      <config projectName="RM_gazebo_plugins" targetName="sensor_msgs_generate_messages_nodejs" />
-      <config projectName="RM_gazebo_plugins" targetName="clean_test_results" />
-      <config projectName="RM_gazebo_plugins" targetName="dynamic_reconfigure_generate_messages_lisp" />
+      <config projectName="RM_gazebo_plugins" targetName="bond_generate_messages_py" />
+      <config projectName="RM_gazebo_plugins" targetName="tf2_msgs_generate_messages_py" />
+      <config projectName="RM_gazebo_plugins" targetName="actionlib_generate_messages_py" />
+      <config projectName="RM_gazebo_plugins" targetName="nodelet_generate_messages_lisp" />
+      <config projectName="RM_gazebo_plugins" targetName="std_srvs_generate_messages_cpp" />
+      <config projectName="RM_gazebo_plugins" targetName="roscpp_generate_messages_nodejs" />
       <config projectName="RM_gazebo_plugins" targetName="actionlib_msgs_generate_messages_lisp" />
-      <config projectName="RM_gazebo_plugins" targetName="sensor_msgs_generate_messages_lisp" />
-      <config projectName="RM_gazebo_plugins" targetName="rosgraph_msgs_generate_messages_lisp" />
+      <config projectName="RM_gazebo_plugins" targetName="trajectory_msgs_generate_messages_eus" />
+      <config projectName="RM_gazebo_plugins" targetName="nav_msgs_generate_messages_eus" />
+      <config projectName="RM_gazebo_plugins" targetName="geometry_msgs_generate_messages_nodejs" />
+      <config projectName="RM_gazebo_plugins" targetName="roscpp_generate_messages_cpp" />
+      <config projectName="RM_gazebo_plugins" targetName="geometry_msgs_generate_messages_eus" />
+      <config projectName="RM_gazebo_plugins" targetName="diagnostic_msgs_generate_messages_lisp" />
+      <config projectName="RM_gazebo_plugins" targetName="rosgraph_msgs_generate_messages_cpp" />
+      <config projectName="RM_gazebo_plugins" targetName="gmock_main" />
+      <config projectName="RM_gazebo_plugins" targetName="bond_generate_messages_cpp" />
+      <config projectName="RM_gazebo_plugins" targetName="std_srvs_generate_messages_eus" />
+      <config projectName="RM_gazebo_plugins" targetName="nav_msgs_generate_messages_cpp" />
       <config projectName="RM_gazebo_plugins" targetName="gazebo_msgs_generate_messages_nodejs" />
-      <config projectName="RM_gazebo_plugins" targetName="actionlib_generate_messages_lisp" />
-      <config projectName="RM_gazebo_plugins" targetName="download_extra_data" />
+      <config projectName="RM_gazebo_plugins" targetName="trajectory_msgs_generate_messages_py" />
+      <config projectName="RM_gazebo_plugins" targetName="actionlib_generate_messages_eus" />
+      <config projectName="RM_gazebo_plugins" targetName="tf_generate_messages_lisp" />
       <config projectName="RM_gazebo_plugins" targetName="diagnostic_msgs_generate_messages_cpp" />
+      <config projectName="RM_gazebo_plugins" targetName="gmock" />
+      <config projectName="RM_gazebo_plugins" targetName="geometry_msgs_generate_messages_cpp" />
+      <config projectName="RM_gazebo_plugins" targetName="polled_camera_generate_messages_eus" />
+      <config projectName="RM_gazebo_plugins" targetName="std_srvs_generate_messages_lisp" />
+      <config projectName="RM_gazebo_plugins" targetName="roscpp_generate_messages_lisp" />
+      <config projectName="RM_gazebo_plugins" targetName="sensor_msgs_generate_messages_py" />
+      <config projectName="RM_gazebo_plugins" targetName="bond_generate_messages_lisp" />
+      <config projectName="RM_gazebo_plugins" targetName="bond_generate_messages_eus" />
+      <config projectName="RM_gazebo_plugins" targetName="nodelet_generate_messages_nodejs" />
+      <config projectName="RM_gazebo_plugins" targetName="gazebo_msgs_generate_messages_py" />
+      <config projectName="RM_gazebo_plugins" targetName="diagnostic_msgs_generate_messages_py" />
+      <config projectName="RM_gazebo_plugins" targetName="gazebo_msgs_generate_messages_eus" />
+      <config projectName="RM_gazebo_plugins" targetName="std_msgs_generate_messages_cpp" />
+      <config projectName="RM_gazebo_plugins" targetName="actionlib_msgs_generate_messages_eus" />
+      <config projectName="RM_gazebo_plugins" targetName="nav_msgs_generate_messages_nodejs" />
+      <config projectName="RM_gazebo_plugins" targetName="std_srvs_generate_messages_py" />
+      <config projectName="RM_gazebo_plugins" targetName="dynamic_reconfigure_generate_messages_eus" />
+      <config projectName="RM_gazebo_plugins" targetName="sensor_msgs_generate_messages_lisp" />
+      <config projectName="RM_gazebo_plugins" targetName="diagnostic_msgs_generate_messages_eus" />
+      <config projectName="RM_gazebo_plugins" targetName="nodelet_generate_messages_eus" />
+      <config projectName="RM_gazebo_plugins" targetName="rosgraph_msgs_generate_messages_nodejs" />
+      <config projectName="RM_gazebo_plugins" targetName="bond_generate_messages_nodejs" />
+      <config projectName="RM_gazebo_plugins" targetName="polled_camera_generate_messages_cpp" />
+      <config projectName="RM_gazebo_plugins" targetName="nav_msgs_generate_messages_lisp" />
+      <config projectName="RM_gazebo_plugins" targetName="run_tests" />
+      <config projectName="RM_gazebo_plugins" targetName="tf2_msgs_generate_messages_lisp" />
+      <config projectName="RM_gazebo_plugins" targetName="_catkin_empty_exported_target" />
+      <config projectName="RM_gazebo_plugins" targetName="polled_camera_generate_messages_py" />
+      <config projectName="RM_gazebo_plugins" targetName="dynamic_reconfigure_generate_messages_nodejs" />
+      <config projectName="RM_gazebo_plugins" targetName="gazebo_msgs_generate_messages_cpp" />
+      <config projectName="RM_gazebo_plugins" targetName="std_msgs_generate_messages_eus" />
+      <config projectName="RM_gazebo_plugins" targetName="gtest" />
+      <config projectName="RM_gazebo_plugins" targetName="dynamic_reconfigure_generate_messages_lisp" />
+      <config projectName="RM_gazebo_plugins" targetName="dynamic_reconfigure_generate_messages_cpp" />
+      <config projectName="RM_gazebo_plugins" targetName="gazebo_msgs_generate_messages_lisp" />
+      <config projectName="RM_gazebo_plugins" targetName="doxygen" />
+      <config projectName="RM_gazebo_plugins" targetName="std_srvs_generate_messages_nodejs" />
+      <config projectName="RM_gazebo_plugins" targetName="std_msgs_generate_messages_py" />
+      <config projectName="RM_gazebo_plugins" targetName="download_extra_data" />
+      <config projectName="RM_gazebo_plugins" targetName="actionlib_msgs_generate_messages_nodejs" />
+      <config projectName="RM_gazebo_plugins" targetName="sensor_msgs_generate_messages_eus" />
       <config projectName="RM_gazebo_plugins" targetName="actionlib_msgs_generate_messages_py" />
       <config projectName="RM_gazebo_plugins" targetName="nodelet_generate_messages_py" />
-      <config projectName="RM_gazebo_plugins" targetName="bond_generate_messages_eus" />
-      <config projectName="RM_gazebo_plugins" targetName="tf_generate_messages_cpp" />
-      <config projectName="RM_gazebo_plugins" targetName="roscpp_generate_messages_cpp" />
-      <config projectName="RM_gazebo_plugins" targetName="dynamic_reconfigure_generate_messages_eus" />
-      <config projectName="RM_gazebo_plugins" targetName="std_srvs_generate_messages_py" />
-      <config projectName="RM_gazebo_plugins" targetName="actionlib_generate_messages_py" />
-      <config projectName="RM_gazebo_plugins" targetName="std_srvs_generate_messages_cpp" />
-      <config projectName="RM_gazebo_plugins" targetName="rosgraph_msgs_generate_messages_py" />
-      <config projectName="RM_gazebo_plugins" targetName="geometry_msgs_generate_messages_cpp" />
-      <config projectName="RM_gazebo_plugins" targetName="bond_generate_messages_nodejs" />
-      <config projectName="RM_gazebo_plugins" targetName="tf2_msgs_generate_messages_py" />
-      <config projectName="RM_gazebo_plugins" targetName="actionlib_generate_messages_nodejs" />
-      <config projectName="RM_gazebo_plugins" targetName="std_msgs_generate_messages_cpp" />
-      <config projectName="RM_gazebo_plugins" targetName="roscpp_generate_messages_eus" />
-      <config projectName="RM_gazebo_plugins" targetName="std_srvs_generate_messages_eus" />
-      <config projectName="RM_gazebo_plugins" targetName="tf_generate_messages_nodejs" />
-      <config projectName="RM_gazebo_plugins" targetName="dynamic_reconfigure_generate_messages_py" />
-      <config projectName="RM_gazebo_plugins" targetName="polled_camera_generate_messages_lisp" />
-      <config projectName="RM_gazebo_plugins" targetName="diagnostic_msgs_generate_messages_eus" />
-      <config projectName="RM_gazebo_plugins" targetName="gazebo_msgs_generate_messages_cpp" />
-      <config projectName="RM_gazebo_plugins" targetName="diagnostic_msgs_generate_messages_lisp" />
-      <config projectName="RM_gazebo_plugins" targetName="nav_msgs_generate_messages_nodejs" />
-      <config projectName="RM_gazebo_plugins" targetName="polled_camera_generate_messages_cpp" />
-      <config projectName="RM_gazebo_plugins" targetName="tf_generate_messages_py" />
-      <config projectName="RM_gazebo_plugins" targetName="gazebo_msgs_generate_messages_py" />
-      <config projectName="RM_gazebo_plugins" targetName="sensor_msgs_generate_messages_cpp" />
-      <config projectName="RM_gazebo_plugins" targetName="tf_generate_messages_lisp" />
-      <config projectName="RM_gazebo_plugins" targetName="tf2_msgs_generate_messages_cpp" />
-      <config projectName="RM_gazebo_plugins" targetName="trajectory_msgs_generate_messages_lisp" />
-      <config projectName="RM_gazebo_plugins" targetName="gmock_main" />
-      <config projectName="RM_gazebo_plugins" targetName="_catkin_empty_exported_target" />
       <config projectName="RM_gazebo_plugins" targetName="diagnostic_msgs_generate_messages_nodejs" />
-      <config projectName="RM_gazebo_plugins" targetName="dynamic_reconfigure_generate_messages_nodejs" />
-      <config projectName="RM_gazebo_plugins" targetName="geometry_msgs_generate_messages_nodejs" />
-      <config projectName="RM_gazebo_plugins" targetName="rosgraph_msgs_generate_messages_cpp" />
-      <config projectName="RM_gazebo_plugins" targetName="std_msgs_generate_messages_eus" />
-      <config projectName="RM_gazebo_plugins" targetName="nodelet_generate_messages_lisp" />
-      <config projectName="RM_gazebo_plugins" targetName="dynamic_reconfigure_gencfg" />
-      <config projectName="RM_gazebo_plugins" targetName="actionlib_msgs_generate_messages_nodejs" />
-      <config projectName="RM_gazebo_plugins" targetName="nodelet_generate_messages_cpp" />
-      <config projectName="RM_gazebo_plugins" targetName="nav_msgs_generate_messages_lisp" />
-      <config projectName="RM_gazebo_plugins" targetName="bond_generate_messages_py" />
+      <config projectName="RM_gazebo_plugins" targetName="std_msgs_generate_messages_lisp" />
+      <config projectName="RM_gazebo_plugins" targetName="actionlib_generate_messages_cpp" />
+      <config projectName="RM_gazebo_plugins" targetName="actionlib_generate_messages_lisp" />
+      <config projectName="RM_gazebo_plugins" targetName="geometry_msgs_generate_messages_py" />
+      <config projectName="RM_gazebo_plugins" targetName="rosgraph_msgs_generate_messages_lisp" />
+      <config projectName="RM_gazebo_plugins" targetName="tf_generate_messages_nodejs" />
+      <config projectName="RM_gazebo_plugins" targetName="RMDrive" />
+      <config projectName="RM_gazebo_plugins" targetName="tf_generate_messages_py" />
+      <config projectName="RM_gazebo_plugins" targetName="trajectory_msgs_generate_messages_nodejs" />
+      <config projectName="RM_gazebo_plugins" targetName="sensor_msgs_generate_messages_cpp" />
+      <config projectName="RM_gazebo_plugins" targetName="sensor_msgs_generate_messages_nodejs" />
       <config projectName="RM_gazebo_plugins" targetName="actionlib_msgs_generate_messages_cpp" />
-      <config projectName="RM_gazebo_plugins" targetName="diagnostic_msgs_generate_messages_py" />
-      <config projectName="RM_gazebo_plugins" targetName="roscpp_generate_messages_nodejs" />
-      <config projectName="RM_gazebo_plugins" targetName="std_srvs_generate_messages_nodejs" />
+      <config projectName="RM_gazebo_plugins" targetName="roscpp_generate_messages_eus" />
+      <config projectName="RM_gazebo_plugins" targetName="clean_test_results" />
+      <config projectName="RM_gazebo_plugins" targetName="tf_generate_messages_cpp" />
+      <config projectName="RM_gazebo_plugins" targetName="polled_camera_generate_messages_lisp" />
+      <config projectName="RM_gazebo_plugins" targetName="tf2_msgs_generate_messages_cpp" />
+      <config projectName="RM_gazebo_plugins" targetName="tf2_msgs_generate_messages_nodejs" />
+      <config projectName="RM_gazebo_plugins" targetName="geometry_msgs_generate_messages_lisp" />
+      <config projectName="RM_gazebo_plugins" targetName="gtest_main" />
+      <config projectName="RM_gazebo_plugins" targetName="tests" />
+      <config projectName="RM_gazebo_plugins" targetName="actionlib_generate_messages_nodejs" />
+      <config projectName="RM_gazebo_plugins" targetName="tf_generate_messages_eus" />
+      <config projectName="RM_gazebo_plugins" targetName="tf2_msgs_generate_messages_eus" />
+      <config projectName="RM_gazebo_plugins" targetName="std_msgs_generate_messages_nodejs" />
+      <config projectName="RM_gazebo_plugins" targetName="roscpp_generate_messages_py" />
+      <config projectName="RM_gazebo_plugins" targetName="nav_msgs_generate_messages_py" />
+      <config projectName="RM_gazebo_plugins" targetName="trajectory_msgs_generate_messages_cpp" />
+      <config projectName="RM_gazebo_plugins" targetName="polled_camera_generate_messages_nodejs" />
+      <config projectName="RM_gazebo_plugins" targetName="trajectory_msgs_generate_messages_lisp" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -134,47 +134,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RMDrive_fuck.cpp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/RMDrive_fuck.cpp">
+      <file leaf-file-name="RMDrive_pla.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/RMDrive_pla.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="338" column="38" lean-forward="false" selection-start-line="338" selection-start-column="38" selection-end-line="338" selection-end-column="38" />
+            <state relative-caret-position="175">
+              <caret line="343" column="0" lean-forward="false" selection-start-line="343" selection-start-column="0" selection-end-line="343" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Entity.hh" pinned="false" current-in-tab="false">
-        <entry file="file:///usr/include/gazebo-7/gazebo/physics/Entity.hh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2775">
-              <caret line="111" column="23" lean-forward="false" selection-start-line="111" selection-start-column="23" selection-end-line="111" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Pose.hh" pinned="false" current-in-tab="false">
-        <entry file="file:///usr/include/gazebo-7/gazebo/math/Pose.hh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="36" column="26" lean-forward="false" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RMDrive.h" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/include/RMDrive.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1550">
-              <caret line="62" column="21" lean-forward="false" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
-              <folding>
-                <element signature="e#153#167#0" expanded="true" />
-                <element signature="e#249#269#0" expanded="true" />
-                <element signature="e#469#500#0" expanded="true" />
-                <element signature="e#546#573#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -199,6 +164,7 @@
         <option value="$PROJECT_DIR$/include/RMDrive.h" />
         <option value="$PROJECT_DIR$/src/RMDrive.cpp" />
         <option value="$PROJECT_DIR$/src/RMDrive_fuck.cpp" />
+        <option value="$PROJECT_DIR$/src/RMDrive_pla.cpp" />
       </list>
     </option>
   </component>
@@ -241,12 +207,6 @@
               <item name="RM_gazebo_plugins" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
               <item name="RM_gazebo" type="47feb1d3:ProjectViewModuleNode" />
               <item name="RM_gazebo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RM_gazebo_plugins" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
-              <item name="RM_gazebo" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="RM_gazebo" type="462c0819:PsiDirectoryNode" />
-              <item name="include" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="RM_gazebo_plugins" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
@@ -716,16 +676,17 @@
       <workItem from="1523731218658" duration="126000" />
       <workItem from="1523896271798" duration="316000" />
       <workItem from="1524214304141" duration="84000" />
+      <workItem from="1528794958734" duration="114000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9200000" />
+    <option name="totallyTimeSpent" value="9314000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="81" y="30" width="1839" height="1050" extended-state="6" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959217" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -792,14 +753,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RMDrive_fuck.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8450">
-          <caret line="338" column="38" lean-forward="false" selection-start-line="338" selection-start-column="38" selection-end-line="338" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -837,14 +790,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RMDrive_fuck.cpp">
+    <entry file="file://$PROJECT_DIR$/src/RMDrive_fuck.cpp" />
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9075">
-          <caret line="363" column="48" lean-forward="false" selection-start-line="363" selection-start-column="48" selection-end-line="363" selection-end-column="48" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file:///usr/include/gazebo-7/gazebo/physics/Entity.hh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2775">
+          <caret line="111" column="23" lean-forward="false" selection-start-line="111" selection-start-column="23" selection-end-line="111" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/gazebo-7/gazebo/math/Pose.hh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="36" column="26" lean-forward="false" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/RMDrive.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1550">
+          <caret line="62" column="21" lean-forward="false" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
+          <folding>
+            <element signature="e#153#167#0" expanded="true" />
+            <element signature="e#249#269#0" expanded="true" />
+            <element signature="e#469#500#0" expanded="true" />
+            <element signature="e#546#573#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RMDrive_fuck.cpp" />
     <entry file="file://$PROJECT_DIR$/src/RMDrive.cpp" />
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -1052,10 +1036,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RMDrive_fuck.cpp">
+    <entry file="file://$PROJECT_DIR$/src/RMDrive_fuck.cpp" />
+    <entry file="file://$PROJECT_DIR$/src/RMDrive_pla.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="338" column="38" lean-forward="false" selection-start-line="338" selection-start-column="38" selection-end-line="338" selection-end-column="38" />
+        <state relative-caret-position="175">
+          <caret line="343" column="0" lean-forward="false" selection-start-line="343" selection-start-column="0" selection-end-line="343" selection-end-column="0" />
           <folding />
         </state>
       </provider>

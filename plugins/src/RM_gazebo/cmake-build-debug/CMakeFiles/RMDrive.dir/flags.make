@@ -6,5 +6,5 @@ CXX_FLAGS = -std=c++11 -g -fPIC
 
 CXX_DEFINES = -DRMDrive_EXPORTS -DROSCONSOLE_BACKEND_LOG4CXX -DROS_PACKAGE_NAME=\"RM_gazebo_plugins\"
 
-CXX_INCLUDES = -I/usr/include/gazebo-7 -I/usr/local/include -I/usr/include/sdformat-4.0 -I/usr/include/ignition/math2 -I/usr/include/OGRE -I/usr/include/OGRE/Terrain -I/usr/include/OGRE/Paging -I/opt/ros/kinetic/include -I/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/kinetic/include/opencv-3.3.1-dev -I/opt/ros/kinetic/include/opencv-3.3.1-dev/opencv -I/home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo/include 
+CXX_INCLUDES = -I/usr/include/gazebo-7 -I/usr/local/include -I/usr/include/sdformat-4.0 -I/usr/include/ignition/math2 -I/usr/include/OGRE -I/usr/include/OGRE/Terrain -I/usr/include/OGRE/Paging -I/opt/ros/kinetic/include -I/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/opt/ros/kinetic/include/opencv-3.3.1-dev -I/opt/ros/kinetic/include/opencv-3.3.1-dev/opencv -I/home/destinxxy/catkin_ws/src/rm2018_Simulation/plugins/src/RM_gazebo/include 
 

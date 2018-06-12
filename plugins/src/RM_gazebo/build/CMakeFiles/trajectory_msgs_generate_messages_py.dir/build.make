@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo
+CMAKE_SOURCE_DIR = /home/destinxxy/catkin_ws/src/rm2018_Simulation/plugins/src/RM_gazebo
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo/build
+CMAKE_BINARY_DIR = /home/destinxxy/catkin_ws/src/rm2018_Simulation/plugins/src/RM_gazebo/build
 
 # Utility rule file for trajectory_msgs_generate_messages_py.
 
@@ -67,6 +67,6 @@ CMakeFiles/trajectory_msgs_generate_messages_py.dir/clean:
 .PHONY : CMakeFiles/trajectory_msgs_generate_messages_py.dir/clean
 
 CMakeFiles/trajectory_msgs_generate_messages_py.dir/depend:
-	cd /home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo /home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo /home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo/build /home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo/build /home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo/build/CMakeFiles/trajectory_msgs_generate_messages_py.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/destinxxy/catkin_ws/src/rm2018_Simulation/plugins/src/RM_gazebo/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/destinxxy/catkin_ws/src/rm2018_Simulation/plugins/src/RM_gazebo /home/destinxxy/catkin_ws/src/rm2018_Simulation/plugins/src/RM_gazebo /home/destinxxy/catkin_ws/src/rm2018_Simulation/plugins/src/RM_gazebo/build /home/destinxxy/catkin_ws/src/rm2018_Simulation/plugins/src/RM_gazebo/build /home/destinxxy/catkin_ws/src/rm2018_Simulation/plugins/src/RM_gazebo/build/CMakeFiles/trajectory_msgs_generate_messages_py.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/trajectory_msgs_generate_messages_py.dir/depend
 

@@ -19,9 +19,9 @@ except ImportError:
             break
     from catkin.environment_cache import generate_environment_script
 
-code = generate_environment_script('/home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo/cmake-build-debug/devel/env.sh')
+code = generate_environment_script('/home/destinxxy/catkin_ws/src/rm2018_Simulation/plugins/src/RM_gazebo/cmake-build-debug/devel/env.sh')
 
-output_filename = '/home/destinxxy/catkin_ws/src/gimbal_chassis_v0/plugins/src/RM_gazebo/cmake-build-debug/catkin_generated/setup_cached.sh'
+output_filename = '/home/destinxxy/catkin_ws/src/rm2018_Simulation/plugins/src/RM_gazebo/cmake-build-debug/catkin_generated/setup_cached.sh'
 with open(output_filename, 'w') as f:
     #print('Generate script for cached setup "%s"' % output_filename)
     f.write('\n'.join(code))
